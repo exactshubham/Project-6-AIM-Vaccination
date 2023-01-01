@@ -1,0 +1,25 @@
+{
+  "name": "project-vaccination",
+  "version": "1.0.0",
+  "description": "\"This is the project related to vaccination\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exactshubham/project-Vaccination.git"
+  },
+  "author": "Shubham Chaturvedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exactshubham/project-Vaccination/issues"
+  },
+  "homepage": "https://github.com/exactshubham/project-Vaccination#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2"
+  }
+}
