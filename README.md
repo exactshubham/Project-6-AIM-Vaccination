@@ -1,4 +1,4 @@
-# Project-Vaccination
+# Project-AIM_Vaccination
 
 - Vaccination Backend for User and Admin
 
